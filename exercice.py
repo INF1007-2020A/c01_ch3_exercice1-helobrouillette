@@ -3,7 +3,7 @@
 import math
 
 def square_root(number: int) -> float:
-\
+#fsb
     return number**0.5
 
 
