@@ -27,3 +27,4 @@ for i in range(10, 100, 5):
         c += i
         i += 1
         print(i)
+        print()
