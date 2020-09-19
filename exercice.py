@@ -32,7 +32,6 @@ for i in range(10, 100, 5):
 
 c = 0
 for i in range(10, 100, 5):
-    while i<100:
-        c += i
+    c += i
         i += 1
         print(i)
