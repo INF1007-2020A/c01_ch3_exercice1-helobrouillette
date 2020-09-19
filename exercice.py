@@ -28,4 +28,4 @@ print (c)
 while i<100:
     c += i
     i += 1
-print(c)
+    print(c)
