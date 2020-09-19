@@ -24,6 +24,6 @@ if __name__ == '__main__':
 c = 0
 for i in range(10, 100, 5):
     while i<100:
-    c += i
-    i += 1
+        c += i
+        i += 1
     print(c)
