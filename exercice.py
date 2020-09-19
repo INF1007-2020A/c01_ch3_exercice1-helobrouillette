@@ -24,7 +24,7 @@ if __name__ == '__main__':
 c = 0
 for i in range(10, 100, 5):
    
- print (c)
+    print (c)
 while i<100:
     c += i
     i += 1
